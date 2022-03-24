@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JASH-PATEL-6566&label=Profile%20views&color=0e75b6&style=flat" alt="suhel-kap" /> </p>
 
-- 🌱 I’m currently learning **JavaScrip and React**
+- 🌱 I’m currently learning **JavaScript and React**
 - 🔭 I’m currently working on **My own Web Project**
 - 👯 I’m looking to collaborate on **web development**
 - 💬 Ask me about **web development and cometitive coding**
