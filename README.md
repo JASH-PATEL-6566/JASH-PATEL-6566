@@ -1,7 +1,7 @@
 <h1 align="center">Hola, I'm Jash Patel! 👋</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JASH-PATEL-6566&label=Profile%20views&color=0e75b6&style=flat" alt="suhel-kap" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JASH-PATEL-6566&label=Profile%20views&color=0e75b6&style=flat" alt="jash-patel" /> </p>
 
 - 🌱 I’m currently learning **JavaScript and React**
 - 🔭 I’m currently working on **My own Web Project**
