@@ -2,7 +2,7 @@
 <h3 class="string" align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JASH-PATEL-6566&label=Profile%20views&color=0e75b6&style=flat" alt="jash-patel" /> </p>
-
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=JASH-PATEL-6566&theme=oldie" alt="JASHPATEL" />
 - 🌱 I’m currently learning **JavaScript and React**
 - 🔭 I’m currently working on **My own Web Project**
 - 👯 I’m looking to collaborate on **web development**
