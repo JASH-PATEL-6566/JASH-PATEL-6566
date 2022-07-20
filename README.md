@@ -48,7 +48,7 @@
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="40" width="40" alt="Bootstarp"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="40" width="40" alt="React"/></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="40" width="40" alt="NodeJS"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="40" width="40" alt="Figma"/></a> </p>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="40" width="30" alt="Figma"/></a> </p>
 
 
 
