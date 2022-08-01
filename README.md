@@ -9,15 +9,13 @@
 - 📫 How to reach me: <b>jashpatel6566@gmail.com</b><br>
 - ⚡ Fun fact: Like to play football⚽ and love to hear music🎵 -->
 
-<ul>
-<li>🌍 I'm based in <b>India</b></li>
-<li>✉️ You can contact me at jashpatel6566@gmail.com</li>
-<li>🚀 I'm currently working on EaseProf</li>
-<li>🧠 I'm learning <b>Firebase and MongoDB</b></li>
-<li>🤝 I'm open to collaborating on <b>web development and competitive programming</b></li>
-<li>⚡ I love to play football and like to listen music</li>
 
-</ul>
+- 🌍 I'm based in <b>India</b>
+- ✉️ You can contact me at [jashpatel6566@gmail.com](mailto:jashpatel6566@gmail.com)
+- 🚀 I'm currently working on **my personal projects**
+- 🧠 I'm learning <b>Firebase and MongoDB</b>
+- 🤝 I'm open to collaborating on <b>web development and competitive programming</b>
+- ⚡ I love to play football and like to listen music
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
