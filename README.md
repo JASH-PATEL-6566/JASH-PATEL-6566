@@ -22,7 +22,7 @@
   <a href="https://twitter.com/Tobeaprogramme1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JASHPATEL" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/jash-patel-57a7311ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JASHPATEL" height="30" width="40" /></a>
   <a href="https://www.instagram.com/j_a_s_h_6566/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="JASHPATEL" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/programmer6566" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="JASHPATEL" height="30" width="40" /></a>
+<a href="https://redux.js.org/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" height="40" width="40" alt="Redux"/></a>
 </p> -->
 
 <p align="left">
@@ -35,18 +35,28 @@
 
 <p align="left"> <h2>Skills</h2>
 
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer" margin='1rem'><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" height="40" width="40" alt="C"/></a> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" height="40" width="40" alt="C++"/></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="40" width="40" alt="Java"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="40" width="40" alt="Javascript"/></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" height="40" width="40" alt="PHP"/></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" height="40" width="40" alt="Python"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="40" width="40" alt="HTML5"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="40" width="40" alt="CSS3"/></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" height="40" width="40" alt="Sass"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" height="40" width="40" alt="TailwindCSS"/></a>
-<a href="https://bulma.io/" target="_blank" rel="noreferrer"><img src="https://bulma.io/assets/Bulma%20Icon.svg" height="48" width="48" alt="Bulma"/></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="40" width="40" alt="Bootstarp"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="40" width="40" alt="React"/></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="40" width="40" alt="NodeJS"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="40" width="30" alt="Figma"/></a> </p>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" height="40" width="40" alt="C"/></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" height="40" width="40" alt="C++"/></a>
+<a href="https://www.oracle.com/java/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="40" width="40" alt="Java"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="40" width="40" alt="Javascript"/></a>
+<a href="https://www.python.org/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" height="40" width="40" alt="Python"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" height="40" width="40" alt="Typescript"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="40" width="40" alt="HTML5"/></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="40" width="40" alt="CSS3"/></a>
+<a href="https://sass-lang.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" height="40" width="40" alt="Sass"/></a>
+<a href="https://tailwindcss.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" height="40" width="40" alt="TailwindCSS"/></a>
+<a href="https://bulma.io/" target="_blank" ><img src="https://bulma.io/assets/Bulma%20Icon.svg" height="40" width="40" alt="Bulma"/></a>
+<a href="https://getbootstrap.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="40" width="40" alt="Bootstarp"/></a>
+<a href="https://reactjs.org/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="40" width="40" alt="React"/></a>
+<a href="https://nodejs.org/en/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="40" width="40" alt="NodeJS"/></a>
+<a href="https://expressjs.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" height="40" width="40" alt="Express"/></a>
+<a href="https://graphql.org/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" height="40" width="40" alt="GraphQL"/></a>
+<a href="https://www.mongodb.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" height="40" width="40" alt="MongoDB"/></a>
+<a href="https://mongoosejs.com/docs/guide.html" target="_blank" ><img src="https://avatars.githubusercontent.com/u/7552965?s=400&v=4" height="40" width="40" alt="Mongoose"/></a>
+<a href="https://redux.js.org/introduction/getting-started" target="_blank" ><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="40" width="40" alt="Redux"/></a>
+<a href="https://firebase.google.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" height="40" width="40" alt="Firebase"/></a>
+<a href="https://www.docker.com/" target="_blank" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" width="40" alt="Firebase"/></a>
+</p>
 
 
 
