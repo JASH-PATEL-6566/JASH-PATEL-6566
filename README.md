@@ -55,7 +55,9 @@
 <a href="https://mongoosejs.com/docs/guide.html" target="_blank" ><img src="https://avatars.githubusercontent.com/u/7552965?s=400&v=4" height="40" width="40" alt="Mongoose"/></a>
 <a href="https://redux.js.org/introduction/getting-started" target="_blank" ><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="40" width="40" alt="Redux"/></a>
 <a href="https://firebase.google.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" height="40" width="40" alt="Firebase"/></a>
-<a href="https://www.docker.com/" target="_blank" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" width="40" alt="Firebase"/></a>
+<a href="https://www.docker.com/" target="_blank" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" width="40" alt="docker"/></a>
+<a href="https://www.postman.com/" target="_blank" ><img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" height="40" width="40" alt="postman"/></a>
+<a href="https://git-scm.com/" target="_blank" ><img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" height="40" width="40" alt="git"/></a>
 </p>
 
 
