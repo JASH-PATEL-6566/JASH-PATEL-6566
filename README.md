@@ -5,7 +5,7 @@
 
 - 🌍 I'm based in <b>India</b>
 - ✉️ You can contact me at [jashpatel6566@gmail.com](mailto:jashpatel6566@gmail.com)
-- 🚀 I'm currently working on **my own projects**
+- 🚀 I'm currently working on **my own project**
 - 🤝 I'm open to collaborating on <b>web development and competitive programming</b>
 - ⚡ I love to play football and like to listen music
 
