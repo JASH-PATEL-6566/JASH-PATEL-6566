@@ -4,6 +4,7 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=JASH-PATEL-6566&theme=oldie" alt="JASHPATEL" />
 
 - 🌍 I'm based in <b>India</b>
+- 📝 I am currently learning **NextJS**
 - ✉️ You can contact me at [jashpatel6566@gmail.com](mailto:jashpatel6566@gmail.com)
 - 🚀 I'm currently working on **my own project**
 - 🤝 I'm open to collaborating on <b>web development and competitive programming</b>
