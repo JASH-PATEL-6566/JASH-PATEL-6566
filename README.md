@@ -6,6 +6,7 @@
 - 🌍 I'm based in <b>India</b>
 - 📝 I am currently learning **NextJS**
 - ✉️ You can contact me at [jashpatel6566@gmail.com](mailto:jashpatel6566@gmail.com)
+- 📈 Know about my experiences **[Resume](https://drive.google.com/file/d/1bNSbf_9x3KNyOM3gebtk3Y3SbaS7wEfM/view?usp=sharing)**
 - 🚀 I'm currently working on **my own project**
 - 🤝 I'm open to collaborating on <b>web development and competitive programming</b>
 - ⚡ I love to play football and like to listen music
