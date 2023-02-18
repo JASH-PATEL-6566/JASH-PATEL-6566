@@ -27,32 +27,33 @@
 <a href="http://www.instagram.com/j_a_s_h_6566" target="_blank" ><img src="https://www.profileme.dev/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdanielcranney%2Freadme-generator%2Fmain%2Fpublic%2Ficons%2Fsocials%2Finstagram.svg&w=32&q=75" height="40" width="40" alt="instagram"/></a>
 </p>
 
-<p align="left"> <h2>Skills</h2>
-
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" height="40" width="40" alt="C"/></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" height="40" width="40" alt="C++"/></a>
-<a href="https://www.oracle.com/java/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="40" width="40" alt="Java"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="40" width="40" alt="Javascript"/></a>
-<a href="https://www.python.org/" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" height="40" width="40" alt="Python"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" height="40" width="40" alt="Typescript"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="40" width="40" alt="HTML5"/></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="40" width="40" alt="CSS3"/></a>
-<a href="https://sass-lang.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" height="40" width="40" alt="Sass"/></a>
-<a href="https://tailwindcss.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" height="40" width="40" alt="TailwindCSS"/></a>
-<a href="https://bulma.io/" target="_blank" ><img src="https://bulma.io/assets/Bulma%20Icon.svg" height="40" width="40" alt="Bulma"/></a>
-<a href="https://getbootstrap.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="40" width="40" alt="Bootstarp"/></a>
-<a href="https://reactjs.org/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="40" width="40" alt="React"/></a>
-<a href="https://nodejs.org/en/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="40" width="40" alt="NodeJS"/></a>
-<a href="https://expressjs.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" height="40" width="40" alt="Express"/></a>
-<a href="https://graphql.org/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" height="40" width="40" alt="GraphQL"/></a>
-<a href="https://www.mongodb.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" height="40" width="40" alt="MongoDB"/></a>
-<a href="https://mongoosejs.com/docs/guide.html" target="_blank" ><img src="https://avatars.githubusercontent.com/u/7552965?s=400&v=4" height="40" width="40" alt="Mongoose"/></a>
-<a href="https://redux.js.org/introduction/getting-started" target="_blank" ><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="40" width="40" alt="Redux"/></a>
-<a href="https://firebase.google.com/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" height="40" width="40" alt="Firebase"/></a>
-<a href="https://www.postman.com/" target="_blank" ><img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" height="40" width="40" alt="postman"/></a>
-<a href="https://git-scm.com/" target="_blank" ><img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" height="40" width="40" alt="git"/></a>
-<a href="https://nextjs.org/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" height="40" width="40" alt="git"/></a>
-<a href="https://codex.wordpress.org/Main_Page" target="_blank" ><img src="https://www.freepnglogos.com/uploads/wordpress-logo-png/file-wordpress-logo-wikimedia-commons-13.png" height="40" width="40" alt="git"/></a>
+<p align="left">
+<h2>Skills</h2>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609803/ease-prof/programming%20languages/c_s78hfk.svg" height="40" width="40" alt=C/>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609803/ease-prof/programming%20languages/c_bvvkhv.svg" height="40" width="40" alt=Cpp/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609805/ease-prof/programming%20languages/javascript_zl26n3.svg" height="40" width="40" alt=Javascript/>
+<a href="https://www.oracle.com/java/" target="_blank" ><img src="/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdreamlist%2Fimage%2Fupload%2Fv1676618128%2Fease-prof%2Fprogramming%2520languages%2Fjava_wgplvs.png&w=96&q=75" height="40" width="40" alt=Java/>
+<a href="https://www.python.org/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609806/ease-prof/programming%20languages/python_e8bquv.svg" height="40" width="40" alt=Python/>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609810/ease-prof/others/html_lk2f50.svg" height="40" width="40" alt=HTML5/>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609810/ease-prof/others/css_ebnigo.svg" height="40" width="40" alt=CSS3/>
+<a href="https://sass-lang.com/" target="_blank" ><img src="/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdreamlist%2Fimage%2Fupload%2Fv1676618619%2Fease-prof%2Fothers%2Fsass_htotpj.png&w=96&q=75" height="40" width="40" alt=Sass/>
+<a href="https://tailwindcss.com/" target="_blank" ><img src="/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdreamlist%2Fimage%2Fupload%2Fv1676618656%2Fease-prof%2Fothers%2Ftailwind-css_ougrjy.png&w=96&q=75" height="40" width="40" alt=TailwindCSS/>
+<a href="https://bulma.io/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676618782/ease-prof/others/Bulma_Icon_uxoi4s.svg" height="40" width="40" alt=Bulma/>
+<a href="https://getbootstrap.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609812/ease-prof/frameworks/boostrap_tlv0am.svg" height="40" width="40" alt=Bootstarp/>
+<a href="https://reactjs.org/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609814/ease-prof/frameworks/react_cbllza.svg" height="40" width="40" alt=React/>
+<a href="https://nextjs.org/docs" target="_blank" ><img src="/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdreamlist%2Fimage%2Fupload%2Fv1676619139%2Fease-prof%2Fframeworks%2FRlogical-Blog-Images-thumbnail_dwvsfn.png&w=96&q=75" height="40" width="40" alt=NextJs/>
+<a href="https://mui.com/" target="_blank" ><img src="/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdreamlist%2Fimage%2Fupload%2Fv1676619464%2Fease-prof%2Fframeworks%2Fpngwing.com_drv9v2.png&w=96&q=75" height="40" width="40" alt=Material UI/>
+<a href="https://redux.js.org/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609814/ease-prof/frameworks/redux_b2m6cp.svg" height="40" width="40" alt=Redux/>
+<a href="https://nodejs.org/en/" target="_blank" ><img src="/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdreamlist%2Fimage%2Fupload%2Fv1676620637%2Fease-prof%2Fframeworks%2Fnode-js_df7mei.png&w=96&q=75" height="40" width="40" alt=NodeJS/>
+<a href="https://expressjs.com/" target="_blank" ><img src="/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdreamlist%2Fimage%2Fupload%2Fv1676620620%2Fease-prof%2Fframeworks%2Ficons8-express-js-480_lto1gb.png&w=96&q=75" height="40" width="40" alt=Express/>
+<a href="https://graphql.org/" target="_blank" ><img src="/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdreamlist%2Fimage%2Fupload%2Fv1676619951%2Fease-prof%2Fdatabases%2Fgraphql_pwrmyk.png&w=96&q=75" height="40" width="40" alt=GraphQL/>
+<a href="https://www.mongodb.com/" target="_blank" ><img src="/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdreamlist%2Fimage%2Fupload%2Fv1676619690%2Fease-prof%2Fdatabases%2Fmongodb_slx9rv.png&w=96&q=75" height="40" width="40" alt=MongoDB/>
+<a href="https://firebase.google.com/" target="_blank" ><img src="/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdreamlist%2Fimage%2Fupload%2Fv1676620746%2Fease-prof%2Fframeworks%2Ffirebase_q5zniy.png&w=96&q=75" height="40" width="40" alt=Firebase/>
+<a href="https://www.postman.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/postman_ks3gcy.svg" height="40" width="40" alt=Postman/>
+<a href="https://git-scm.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/git_xzurom.svg" height="40" width="40" alt=Git/>
+<a href="https://mongoosejs.com/" target="_blank" ><img src="/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdreamlist%2Fimage%2Fupload%2Fv1676726456%2Fease-prof%2Fothers%2Fmongoose_mysht2.png&w=96&q=75" height="40" width="40" alt=Mongoose/>
+<a href="https://wordpress.org/documentation/" target="_blank" ><img src="/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdreamlist%2Fimage%2Fupload%2Fv1676726457%2Fease-prof%2Fothers%2Fwordpress_z8coui.png&w=96&q=75" height="40" width="40" alt=Wordpress/>
+<a href="https://www.figma.com/" target="_blank" ><img src="/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdreamlist%2Fimage%2Fupload%2Fv1676621363%2Fease-prof%2Ftools%2Ffigma_dvtlsf.png&w=96&q=75" height="40" width="40" alt=Figma/>
 </p>
 
 
