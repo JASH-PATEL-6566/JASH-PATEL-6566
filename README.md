@@ -60,11 +60,11 @@
 
 <h2>Badges</h2>
 <table align="center" border="none"> <td>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ferin79&show_icons=true&locale=en&theme=dark" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=JASH-PATEL-6566&show_icons=true&locale=en&theme=dark" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JASH-PATEL-6566&theme=dark" />
 </td> </table>
 <table border="none" align="center"> <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferin79&show_icons=true&locale=en&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JASH-PATEL-6566&show_icons=true&locale=en&layout=compact&theme=dark" />
 </td> </table>
 
 <h2>Support</h2>
