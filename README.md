@@ -55,6 +55,7 @@
 <a href="https://wordpress.org/documentation/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729989/ease-prof/programming%20languages/wordpress-blue_ltrvxt.svg" height="40" width="40" alt=Wordpress/>
 <a href="https://www.figma.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730196/ease-prof/programming%20languages/icons8-figma_ikwot6.svg" height="40" width="40" alt=Figma/>
 <a href="https://www.php.net/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728606/ease-prof/programming%20languages/php-icon_l6wqva.svg" height="40" width="40" alt=PHP/>
+<a href="https://docs.soliditylang.org/en/latest/" target="_blank" ><img src="https://www.svgrepo.com/show/374088/solidity.svg" height="40" width="40" alt="Solidity"/>
 </p>
 
 
