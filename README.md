@@ -59,7 +59,7 @@
 <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1684438368/ease-prof/frameworks/NET_Core_Logo.svg_sq9xpj.png" height="40" width="40" alt="dotnet"/>
 <a href="https://laravel.com/docs/10.x/installation" target="_blank" ><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="40" width="40" alt="laravel"/>
 <a href="https://redis.io/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609817/ease-prof/databases/redis_tiol2k.svg" height="40" width="40" alt="redis"/>
-<a href="https://reactnative.dev/" target="_blank" ><img src=https://res.cloudinary.com/dreamlist/image/upload/v1690736011/ease-prof/frameworks/react-native-1_t9abom.svg" height="40" width="40" alt="react native"/>
+<a href="https://reactnative.dev/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1690736011/ease-prof/frameworks/react-native-1_t9abom.svg" height="40" width="40" alt="react_native"/>
 </p>
 <!-- https://cdn.worldvectorlogo.com/logos/react-native-1.svg -->
 
