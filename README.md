@@ -5,7 +5,7 @@
 
 - 🌍 I'm based in <b>India</b>
 - 📝 I am currently learning **Blockchain**
-- ✉️ You can contact me at [jashpatel6566@gmail.com](mailto:pateljash1511@gmail.com)
+- ✉️ You can contact me at [pateljash1511@gmail.com](mailto:pateljash1511@gmail.com)
 - 📈 Know about my experiences **[Resume](https://drive.google.com/file/d/1ZwaLMnEkvKmTqSQJNstEhvhQ50P5gsXf/view?usp=sharing)**
 - 🚀 I'm currently working on **my own project**
 - 🤝 I'm open to collaborating on <b>web development</b>
