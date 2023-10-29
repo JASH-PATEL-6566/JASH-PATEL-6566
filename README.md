@@ -5,10 +5,10 @@
 
 - 🌍 I'm based in <b>India</b>
 - 📝 I am currently learning **Blockchain**
-- ✉️ You can contact me at [jashpatel6566@gmail.com](mailto:jashpatel6566@gmail.com)
-- 📈 Know about my experiences **[Resume](https://drive.google.com/file/d/1t2eRrgmyFVYB8i-rdwMMmuI4ljN-g3gN/view?usp=share_link)**
+- ✉️ You can contact me at [jashpatel6566@gmail.com](mailto:pateljash1511@gmail.com)
+- 📈 Know about my experiences **[Resume](https://drive.google.com/file/d/1ZwaLMnEkvKmTqSQJNstEhvhQ50P5gsXf/view?usp=sharing)**
 - 🚀 I'm currently working on **my own project**
-- 🤝 I'm open to collaborating on <b>web development and competitive programming</b>
+- 🤝 I'm open to collaborating on <b>web development</b>
 - ⚡ I love to play football and like to listen music
 
 <!-- <h3 align="left">Connect with me:</h3>
