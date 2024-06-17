@@ -56,7 +56,6 @@
 <a href="https://www.figma.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730196/ease-prof/programming%20languages/icons8-figma_ikwot6.svg" height="40" width="40" alt=Figma/>
 <a href="https://www.php.net/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728606/ease-prof/programming%20languages/php-icon_l6wqva.svg" height="40" width="40" alt=PHP/>
 <a href="https://docs.soliditylang.org/en/latest/" target="_blank" ><img src="https://www.svgrepo.com/show/374088/solidity.svg" height="40" width="40" alt="Solidity"/>
-<a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1684438368/ease-prof/frameworks/NET_Core_Logo.svg_sq9xpj.png" height="40" width="40" alt="dotnet"/>
 <a href="https://laravel.com/docs/10.x/installation" target="_blank" ><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="40" width="40" alt="laravel"/>
 <a href="https://redis.io/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609817/ease-prof/databases/redis_tiol2k.svg" height="40" width="40" alt="redis"/>
 <a href="https://reactnative.dev/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1690736011/ease-prof/frameworks/react-native-1_t9abom.svg" height="40" width="40" alt="react_native"/>
