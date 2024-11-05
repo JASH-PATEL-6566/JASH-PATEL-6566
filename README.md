@@ -4,11 +4,9 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=JASH-PATEL-6566&theme=oldie" alt="JASHPATEL" />
 
 - 🌍 I'm based in <b>Halifax, Canada</b>
-- 📝 I am currently learning **Blockchain**
 - 🌐 Check out my digital playground at [portfolio](https://jashpatel1511.netlify.app/)
 - ✉️ You can contact me at [pateljash1511@gmail.com](mailto:pateljash1511@gmail.com)
 - 📈 Know about my experiences **[Resume](https://drive.google.com/file/d/1ZwaLMnEkvKmTqSQJNstEhvhQ50P5gsXf/view?usp=sharing)**
-- 🚀 I'm currently working on **my own project**
 - 🤝 I'm open to collaborating on <b>web development</b>
 - ⚡ I love to play football and like to listen music
 
