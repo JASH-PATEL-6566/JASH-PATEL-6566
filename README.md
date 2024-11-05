@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JASH-PATEL-6566&label=Profile%20views&color=0e75b6&style=flat" alt="jash-patel" /> </p>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=JASH-PATEL-6566&theme=oldie" alt="JASHPATEL" />
 
-- 🌍 I'm based in <b>India</b>
+- 🌍 I'm based in <b>Halifax, Canada</b>
 - 📝 I am currently learning **Blockchain**
 - 🌐 Check out my digital playground at [portfolio](https://jashpatel1511.netlify.app/)
 - ✉️ You can contact me at [pateljash1511@gmail.com](mailto:pateljash1511@gmail.com)
