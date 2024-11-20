@@ -1,80 +1,32 @@
-<h1 align="center">Hola, I'm Jash ! 👋</h1>
-<h3 class="string" align="center">A passionate developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JASH-PATEL-6566&label=Profile%20views&color=0e75b6&style=flat" alt="jash-patel" /> </p>
-<!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=JASH-PATEL-6566&theme=oldie" alt="JASHPATEL" /> -->
-<img  src="https://github-profile-trophy.vercel.app/?username=JASH-PATEL-6566&label=Profile%20views&color=0e75b6&style=flat"/> 
-
-- 🌍 I'm based in <b>Halifax, Canada</b>
-- 🌐 Check out my digital playground at [portfolio](https://jashpatel1511.netlify.app/)
-- ✉️ You can contact me at [pateljash1511@gmail.com](mailto:pateljash1511@gmail.com)
-- 📈 Know about my experiences **[Resume](https://drive.google.com/file/d/1ZwaLMnEkvKmTqSQJNstEhvhQ50P5gsXf/view?usp=sharing)**
-- 🤝 I'm open to collaborating on <b>web development</b>
-- ⚡ I love to play football and like to listen music
-
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/Tobeaprogramme1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JASHPATEL" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/jash-patel-57a7311ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JASHPATEL" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/j_a_s_h_6566/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="JASHPATEL" height="30" width="40" /></a>
-<a href="https://redux.js.org/" target="_blank" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" height="40" width="40" alt="Redux"/></a>
-</p> -->
-
-<p align="left">
-<h2>Social</h2>
-<a href="https://www.github.com/JASH-PATEL-6566" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730434/ease-prof/social/github-tile_gsrozh.svg" height="40" width="40" alt=github/>
-<a href="https://www.twitter.com/jashpatel1511" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730463/ease-prof/social/twitter-tile_wvivtr.svg" height="40" width="40" alt=twitter/>
-<a href="https://www.linkedin.com/in/jash-patel-57a7311ba" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730564/ease-prof/social/linkedin-tile_jaz1sv.svg" height="40" width="40" alt=linkedin/>
-<a href="http://www.instagram.com/_.jash._6566" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730747/ease-prof/social/instagram-icon_awmjo1.svg" height="40" width="40" alt=instagram/>
-</p>
-
-<p align="left">
-<h2>Skills</h2>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609803/ease-prof/programming%20languages/c_s78hfk.svg" height="40" width="40" alt=C/>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609803/ease-prof/programming%20languages/c_bvvkhv.svg" height="40" width="40" alt=Cpp/>
-<a href="https://www.oracle.com/java/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676727028/ease-prof/programming%20languages/java-icon_ksqmpo.svg" height="40" width="40" alt=Java/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609805/ease-prof/programming%20languages/javascript_zl26n3.svg" height="40" width="40" alt=Javascript/>
-<a href="https://www.python.org/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609806/ease-prof/programming%20languages/python_e8bquv.svg" height="40" width="40" alt=Python/>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609810/ease-prof/others/html_lk2f50.svg" height="40" width="40" alt=HTML5/>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609810/ease-prof/others/css_ebnigo.svg" height="40" width="40" alt=CSS3/>
-<a href="https://sass-lang.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728717/ease-prof/programming%20languages/sass-1_e2j4kh.svg" height="40" width="40" alt=Sass/>
-<a href="https://tailwindcss.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728764/ease-prof/programming%20languages/tailwindcss_ypanrz.svg" height="40" width="40" alt=TailwindCSS/>
-<a href="https://bulma.io/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676618782/ease-prof/others/Bulma_Icon_uxoi4s.svg" height="40" width="40" alt=Bulma/>
-<a href="https://getbootstrap.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609812/ease-prof/frameworks/boostrap_tlv0am.svg" height="40" width="40" alt=Bootstarp/>
-<a href="https://reactjs.org/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609814/ease-prof/frameworks/react_cbllza.svg" height="40" width="40" alt=React/>
-<a href="https://nextjs.org/docs" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728805/ease-prof/programming%20languages/next-js_dx85pb.svg" height="40" width="40" alt=NextJs/>
-<a href="https://mui.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728908/ease-prof/programming%20languages/material-ui-1_vqf8is.svg" height="40" width="40" alt=Material UI/>
-<a href="https://redux.js.org/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609814/ease-prof/frameworks/redux_b2m6cp.svg" height="40" width="40" alt=Redux/>
-<a href="https://nodejs.org/en/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729013/ease-prof/programming%20languages/nodejs-icon_xl8kno.svg" height="40" width="40" alt=NodeJS/>
-<a href="https://expressjs.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729086/ease-prof/programming%20languages/icons8-express-js_j8xma8.svg" height="40" width="40" alt=Express/>
-<a href="https://graphql.org/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729116/ease-prof/programming%20languages/graphql-logo-2_oojic0.svg" height="40" width="40" alt=GraphQL/>
-<a href="https://www.mongodb.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729142/ease-prof/programming%20languages/mongodb-icon-1_j4gilp.svg" height="40" width="40" alt=MongoDB/>
-<a href="https://firebase.google.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729196/ease-prof/programming%20languages/firebase-2_j0abc8.svg" height="40" width="40" alt=Firebase/>
-<a href="https://www.postman.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/postman_ks3gcy.svg" height="40" width="40" alt=Postman/>
-<a href="https://git-scm.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/git_xzurom.svg" height="40" width="40" alt=Git/>
-<a href="https://mongoosejs.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729957/ease-prof/programming%20languages/icons8-mongoose_iuaxod.svg" height="40" width="40" alt=Mongoose/>
-<a href="https://wordpress.org/documentation/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729989/ease-prof/programming%20languages/wordpress-blue_ltrvxt.svg" height="40" width="40" alt=Wordpress/>
-<a href="https://www.figma.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730196/ease-prof/programming%20languages/icons8-figma_ikwot6.svg" height="40" width="40" alt=Figma/>
-<a href="https://www.php.net/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728606/ease-prof/programming%20languages/php-icon_l6wqva.svg" height="40" width="40" alt=PHP/>
-<a href="https://docs.soliditylang.org/en/latest/" target="_blank" ><img src="https://www.svgrepo.com/show/374088/solidity.svg" height="40" width="40" alt="Solidity"/>
-<a href="https://laravel.com/docs/10.x/installation" target="_blank" ><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="40" width="40" alt="laravel"/>
-<a href="https://redis.io/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609817/ease-prof/databases/redis_tiol2k.svg" height="40" width="40" alt="redis"/>
-<a href="https://reactnative.dev/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1690736011/ease-prof/frameworks/react-native-1_t9abom.svg" height="40" width="40" alt="react_native"/>
-</p>
-<!-- https://cdn.worldvectorlogo.com/logos/react-native-1.svg -->
+# 💫 About Me:
+🌍 I'm based in Halifax, Canada<br>
+🌐 Check out my digital playground at [portfolio](http://jashpatel1511.netlify.app)<br>
+✉️ You can contact me at pateljash1511@gmail.com<br>
+📈 Know about my experiences [Resume](https://drive.google.com/file/d/1eVuM5WkZqtr5Vi_J9blKJRIIMThTXOjh/view?usp=sharing)<br>
+🤝 I'm open to collaborating on web and app development<br>
+⚡ I love to play football and like to listen music
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jash6566._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patel-jash) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JASH-PATEL-6566&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JASH-PATEL-6566&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JASH-PATEL-6566&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JASH-PATEL-6566&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h2>Badges</h2>
-<table align="center" border="none"> <td>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=JASH-PATEL-6566&show_icons=true&locale=en&theme=dark" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JASH-PATEL-6566&theme=dark" />
-</td> </table>
-<table border="none" align="center"> <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JASH-PATEL-6566&show_icons=true&locale=en&layout=compact&theme=dark" />
-</td> </table>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<h2>Support</h2>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JASH-PATEL-6566&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<a href="https://www.buymeacoffee.com/jashpatel6566" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+---
+[![](https://visitcount.itsvg.in/api?id=JASH-PATEL-6566&icon=5&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
