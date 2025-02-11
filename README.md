@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌍 I'm based in Halifax, Canada<br>
-🌐 Check out my digital playground at [portfolio](http://jashpatel1511.netlify.app)<br>
+🌐 Check out my digital playground at [portfolio](http://jashpatel1511.github.io)<br>
 ✉️ You can contact me at pateljash1511@gmail.com<br>
 📈 Know about my experiences [Resume](https://drive.google.com/file/d/13vkjfZK03mDyO-oqXmhmvmqo-J1vbFa4/view?usp=sharing)<br>
 🤝 I'm open to collaborating on web and app development<br>
