@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍 I'm based in Halifax, Canada<br>
+🌍 I'm based in Toronto, ON<br>
 🌐 Check out my digital playground at [portfolio](http://jashpatel1511.github.io)<br>
 ✉️ You can contact me at pateljash1511@gmail.com<br>
 📈 Know about my experiences [Resume](https://drive.google.com/file/d/13vkjfZK03mDyO-oqXmhmvmqo-J1vbFa4/view?usp=sharing)<br>
